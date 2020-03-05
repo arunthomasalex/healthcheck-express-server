@@ -1,0 +1,30 @@
+{
+  "name": "healthcheck-express-server",
+  "version": "0.1.0",
+  "description": "express application monitoring tool for viewing the status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunthomasalex/healthcheck-express-server.git"
+  },
+  "keywords": [
+    "healthcheck",
+    "monitoring",
+    "express",
+    "healthcheck-server",
+    "healthcheck-express",
+    "healthcheck-server-express"
+  ],
+  "author": "Arun Thomas Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arunthomasalex/healthcheck-express-server/issues"
+  },
+  "homepage": "https://github.com/arunthomasalex/healthcheck-express-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
